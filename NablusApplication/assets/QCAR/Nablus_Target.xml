@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Nablus_Circle" size="100.000000 75.000000" />
+    <ImageTarget name="Nablus_Khan" size="100.000000 65.000000" />
+    <ImageTarget name="Nablus_GreatMousque" size="100.000000 133.882782" />
+    <ImageTarget name="Nablus_RomanCemetery" size="100.000000 66.615387" />
+    <ImageTarget name="Nablus_ClockTower" size="100.000000 133.333328" />
+    <ImageTarget name="Nablus_RomanPath" size="100.000000 61.258278" />
+  </Tracking>
+</QCARConfig>
